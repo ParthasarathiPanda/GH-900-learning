@@ -1,4 +1,1 @@
-this is my javascript file
-
-{
-}
+console.log("Hello, World!");
